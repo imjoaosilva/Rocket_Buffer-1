@@ -9,7 +9,7 @@ Uma cli responsável por ajudar poupar trabalho aos desenvolvedores.
 
 ## Primeira Análise
 
-- Seleção de qual framework cli iremos utilizar.
+- Seleção de qual lib de cli iremos utilizar.
 
 - Quais as funcionalidades a tua cli terá.
 
@@ -17,7 +17,7 @@ Uma cli responsável por ajudar poupar trabalho aos desenvolvedores.
 
 ## Segunda Análise
 
-#### Seleção de qual framework cli iremos utilizar.
+#### Seleção de qual lib de cli iremos utilizar.
 
 - Gluegun
 
