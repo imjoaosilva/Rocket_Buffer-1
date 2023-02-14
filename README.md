@@ -11,7 +11,7 @@ Uma cli responsável por ajudar poupar trabalho aos desenvolvedores.
 
 - Seleção de qual lib de cli iremos utilizar.
 
-- Quais as funcionalidades a tua cli terá.
+- Quais as funcionalidades a cli terá.
 
 - Desenvolvimento de cada funcionalidade.
 
@@ -21,7 +21,7 @@ Uma cli responsável por ajudar poupar trabalho aos desenvolvedores.
 
 - Gluegun
 
-#### Quais as funcionalidades a tua cli terá.
+#### Quais as funcionalidades a cli terá.
 
 - Criação de projetos "pré desenvolvidos" para facilitar e poupar trabalho dos desenvolvedores.
 
